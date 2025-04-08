@@ -1,0 +1,12 @@
+streamlit
+torch
+transformers
+Pillow
+numpy
+torchvision
+segmentation-models
+opencv-python
+gdown
+tensorflow
+opencv-contrib-python
+opencv-python-headless
