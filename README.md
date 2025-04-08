@@ -27,7 +27,6 @@ Before running the project, ensure the following dependencies are installed:
 - Hugging Face's Transformers library
 - Git LFS (Large File Storage) for model files
 - Kaggle Dataset Link: https://www.kaggle.com/datasets/humansintheloop/teeth-segmentation-on-dental-x-ray-images
-- Resnet 34 Fine Tuning Notebook: https://drive.google.com/file/d/1gUdX9RXpKMK6VDV4OqPK45mOnpbFuFkR/view?usp=sharing
 
 ### 📥 **Installation Steps**
 1. Clone the repository:
@@ -90,6 +89,13 @@ Dice Coefficient: 0.89
 
 The results show that the ViT-based encoder with a U-Net decoder provides highly accurate segmentation masks. Furthermore, fine-tuning ResNet-34 improved the performance of the segmentation model.
 
+- Resnet 34 Fine Tuning Notebook: https://drive.google.com/file/d/1gUdX9RXpKMK6VDV4OqPK45mOnpbFuFkR/view?usp=sharing
+- 
+Trained Models Link:
+
+Resnet 34: https://drive.google.com/file/d/1d5Yka9qb4Rd22PWxsGgfjOnx_wNJssLQ/view?usp=sharing
+
+VIT model : https://drive.google.com/file/d/1FbZ77_AmIy0_DFM1g5XC_0wZDEJlCFTS/view?usp=sharing
 
 ## 🤝 Team Members:
 Abhishek Kumar Singh (M23CSA503) 
