@@ -90,7 +90,8 @@ Dice Coefficient: 0.89
 The results show that the ViT-based encoder with a U-Net decoder provides highly accurate segmentation masks. Furthermore, fine-tuning ResNet-34 improved the performance of the segmentation model.
 
 - Resnet 34 Fine Tuning Notebook: https://drive.google.com/file/d/1gUdX9RXpKMK6VDV4OqPK45mOnpbFuFkR/view?usp=sharing
-- 
+
+  
 Trained Models Link:
 
 Resnet 34: https://drive.google.com/file/d/1d5Yka9qb4Rd22PWxsGgfjOnx_wNJssLQ/view?usp=sharing
