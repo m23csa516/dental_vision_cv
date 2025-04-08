@@ -25,7 +25,6 @@ Before running the project, ensure the following dependencies are installed:
 - TensorFlow (for ResNet-34 model)
 - Streamlit
 - Hugging Face's Transformers library
-- Git LFS (Large File Storage) for model files
 - Kaggle Dataset Link: https://www.kaggle.com/datasets/humansintheloop/teeth-segmentation-on-dental-x-ray-images
 
 ### 📥 **Installation Steps**
