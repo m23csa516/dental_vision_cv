@@ -44,13 +44,7 @@ Before running the project, ensure the following dependencies are installed:
     pip install -r requirements.txt
     ```
 
-4. **Git LFS**: Ensure **Git Large File Storage** is installed to handle large model files (e.g., `.pth`, `.hdf5`):
-    - Install Git LFS:  
-    ```bash
-    git lfs install
-    ```
-
-5. Run the **Streamlit app**:
+4. Run the **Streamlit app**:
     ```bash
     streamlit Dental Vision.py
     ```
@@ -80,6 +74,14 @@ The model was trained with a binary cross-entropy loss function and Adam optimiz
 ## 🔄 Model Fine-Tuning
 The ResNet-34 model was fine-tuned for teeth segmentation. Using transfer learning, we adapted the pre-trained model to the dental X-ray dataset, significantly improving performance compared to traditional methods.
 
+Resnet 34 Fine Tuning Notebook: https://drive.google.com/file/d/1gUdX9RXpKMK6VDV4OqPK45mOnpbFuFkR/view?usp=sharing
+
+  
+Trained Models Link:
+
+Resnet 34: https://drive.google.com/file/d/1d5Yka9qb4Rd22PWxsGgfjOnx_wNJssLQ/view?usp=sharing
+
+VIT model : https://drive.google.com/file/d/1FbZ77_AmIy0_DFM1g5XC_0wZDEJlCFTS/view?usp=sharing
 ## 📊 Results
 The model achieved strong segmentation results:
 
@@ -89,14 +91,7 @@ Dice Coefficient: 0.89
 
 The results show that the ViT-based encoder with a U-Net decoder provides highly accurate segmentation masks. Furthermore, fine-tuning ResNet-34 improved the performance of the segmentation model.
 
-- Resnet 34 Fine Tuning Notebook: https://drive.google.com/file/d/1gUdX9RXpKMK6VDV4OqPK45mOnpbFuFkR/view?usp=sharing
 
-  
-Trained Models Link:
-
-Resnet 34: https://drive.google.com/file/d/1d5Yka9qb4Rd22PWxsGgfjOnx_wNJssLQ/view?usp=sharing
-
-VIT model : https://drive.google.com/file/d/1FbZ77_AmIy0_DFM1g5XC_0wZDEJlCFTS/view?usp=sharing
 
 ## 🤝 Team Members:
 Abhishek Kumar Singh (M23CSA503) 
