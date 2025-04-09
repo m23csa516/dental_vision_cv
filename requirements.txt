@@ -7,6 +7,6 @@ segmentation-models
 opencv-python-headless
 streamlit
 gdown
-tensorflow
+tensorflow==2.10
 numpy 
 pandas
