@@ -5,7 +5,9 @@ numpy
 torchvision
 segmentation-models
 opencv-python
-streamlit==1.20.0
+streamlit
 opencv-contrib-python
 gdown
 tensorflow
+numpy 
+pandas
