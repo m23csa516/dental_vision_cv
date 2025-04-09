@@ -6,6 +6,7 @@ numpy
 torchvision
 segmentation-models
 opencv-python==4.8.1.78
+opencv-python-headless
 gdown
 tensorflow
 
