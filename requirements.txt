@@ -5,7 +5,7 @@ Pillow
 numpy
 torchvision
 segmentation-models
-opencv-python
+opencv-python==4.11.0
 gdown
 tensorflow
 
