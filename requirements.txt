@@ -10,3 +10,4 @@ gdown
 tensorflow==2.10
 numpy 
 pandas
+numpy<2
