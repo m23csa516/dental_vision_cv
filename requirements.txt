@@ -4,9 +4,8 @@ Pillow
 numpy
 torchvision
 segmentation-models
-opencv-python
+opencv-python-headless
 streamlit
-opencv-contrib-python
 gdown
 tensorflow
 numpy 
