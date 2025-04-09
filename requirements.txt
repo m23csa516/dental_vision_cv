@@ -4,8 +4,8 @@ Pillow
 numpy
 torchvision
 segmentation-models
-opencv-python==4.8.1.78
+opencv-python
 streamlit==1.20.0
-opencv-python-headless==4.9.0.80
+opencv-contrib-python
 gdown
 tensorflow
